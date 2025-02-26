@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e72092f918b49a9b88b858933c4f20a/artifacts
+end_time: 1740570362386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e72092f918b49a9b88b858933c4f20a
+run_name: hilarious-hawk-727
+run_uuid: 1e72092f918b49a9b88b858933c4f20a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570362360
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2335e095dd2941fdb793d0ce3d21cd64/artifacts
+end_time: 1740568300720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2335e095dd2941fdb793d0ce3d21cd64
+run_name: classy-carp-173
+run_uuid: 2335e095dd2941fdb793d0ce3d21cd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740568300550
+status: 4
+tags: []
+user_id: User

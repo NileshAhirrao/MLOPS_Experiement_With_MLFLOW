@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630463487364873571/ae816be30247495d8e0d905d2f00004d/artifacts
+end_time: 1740572652269
+entry_point_name: ''
+experiment_id: '630463487364873571'
+lifecycle_stage: active
+run_id: ae816be30247495d8e0d905d2f00004d
+run_name: kindly-panda-711
+run_uuid: ae816be30247495d8e0d905d2f00004d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740572652246
+status: 4
+tags: []
+user_id: User

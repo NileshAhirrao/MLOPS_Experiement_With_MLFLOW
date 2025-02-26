@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630463487364873571/53ad424191c545e59a94072719be0013/artifacts
+end_time: 1740572712083
+entry_point_name: ''
+experiment_id: '630463487364873571'
+lifecycle_stage: active
+run_id: 53ad424191c545e59a94072719be0013
+run_name: orderly-shark-911
+run_uuid: 53ad424191c545e59a94072719be0013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740572708311
+status: 3
+tags: []
+user_id: User

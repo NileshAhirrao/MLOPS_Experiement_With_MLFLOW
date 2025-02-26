@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/200a269747a84b8f9017e9e6cfe3b580/artifacts
+end_time: 1740571049541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 200a269747a84b8f9017e9e6cfe3b580
+run_name: resilient-goose-797
+run_uuid: 200a269747a84b8f9017e9e6cfe3b580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740571049307
+status: 3
+tags: []
+user_id: User

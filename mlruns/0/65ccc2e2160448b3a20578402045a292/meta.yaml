@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65ccc2e2160448b3a20578402045a292/artifacts
+end_time: 1740570953673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ccc2e2160448b3a20578402045a292
+run_name: burly-bug-112
+run_uuid: 65ccc2e2160448b3a20578402045a292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570881237
+status: 3
+tags: []
+user_id: User
